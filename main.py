@@ -13,7 +13,6 @@ version = '2015-04-09'
 
 # connect to quandl
 
-
 quandl.ApiConfig.api_key = key
 quandl.ApiConfig.api_version = version
 
